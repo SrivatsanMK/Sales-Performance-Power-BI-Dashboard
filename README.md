@@ -1,7 +1,7 @@
 # Sales Performance Dashboard Analysis
 
 <p align="center">
-    <img src="preview.png" width="60%" />
+    <img src="preview.png" width="80%" />
 </p>
 
 This report provides a detailed analysis of the company's performance, leveraging data from key business sources. The dashboard is designed to offer a complete view of the business, facilitating both granular operational insights and high-level strategic evaluation.
